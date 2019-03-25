@@ -2,6 +2,8 @@
 
 Made following https://medium.com/statuscode/introducing-webpacker-7136d66cddfb
 
+![Demo](reload.gif)
+
 ## New Hotness
 
 To get *hot reloading*, preserving the state of mounted components, import react-hot-loader and wrap the component with a call to `hot`:
