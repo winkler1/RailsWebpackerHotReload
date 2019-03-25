@@ -1,9 +1,14 @@
-# Made following https://medium.com/statuscode/introducing-webpacker-7136d66cddfb
+# Hot Reloading with Rails and Webpacker
+
+Made following https://medium.com/statuscode/introducing-webpacker-7136d66cddfb
+
+## New Hotness
 
 To get *hot reloading*, preserving the state of mounted components, import react-hot-loader and wrap the component with a call to `hot`:
 https://devtoyou.com/question/NTQ2OTc0MzI/react-rails-with-webpacker-not-hot-reloading.html
 
-Demo Script
+# Demo Script
+
 * Clone the repo
 * bundle install
 * npm install
